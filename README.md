@@ -1,8 +1,8 @@
 # Human Computer Interaction (October 2018)
 
-A workshop led by Anna Xambó (anna.xambo@ntnu.no).
+A course led by Anna Xambó (anna.xambo@ntnu.no).
 
-The slides for the series of lectures in Human Computer Interaction are delivered at the [MCT program](https://www.ntnu.edu/studies/mmct) (NTNU-UiO).
+The slides for the series of four lectures in Human Computer Interaction delivered at the [MCT program](https://www.ntnu.edu/studies/mmct) (NTNU-UiO).
 
 ## Table of Contents
 

@@ -6,7 +6,7 @@ The slides for the series of four lectures in Human Computer Interaction deliver
 
 ## Table of Contents
 
-* [Introduction to the course](XX)
+* [Introduction to the course](https://github.com/axambo/hci-lecture-slides/tree/master/slides/introduction)
 
 ### Day 1: Trends in HCI
 

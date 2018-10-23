@@ -10,7 +10,7 @@ The slides for the series of four lectures in Human Computer Interaction deliver
 
 ### Day 1: Trends in HCI
 
-<!-- * [Slides](XX) -->
+* [Slides](https://github.com/axambo/hci-lecture-slides/tree/master/slides/d1)
 
 ### Day 2: Evaluation in HCI
 

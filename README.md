@@ -18,7 +18,7 @@ The slides for the series of four lectures in Human Computer Interaction deliver
 	
 ### Day 3: NIMEs (focus on practices)
 
-<!-- * [Slides](XX) -->
+* [Slides](https://github.com/axambo/hci-lecture-slides/tree/master/slides/d3)
 
 ### Day 4: NIMEs (focus on instrument design)
 
